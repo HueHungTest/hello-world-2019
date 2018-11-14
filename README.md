@@ -6,3 +6,5 @@ Tại sao ko pull requests được
 share quyen truy xuat cho HueHung from GiaToan2016
 
 1212 11111
+
+Sửa file README.md
