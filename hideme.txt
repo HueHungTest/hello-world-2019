@@ -1,0 +1,3 @@
+Tạo file hideme.txt
+
+và dấu nó vào hideme
